@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd4d8547e040491385c7c2c92753930e/artifacts
+end_time: 1753015762600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd4d8547e040491385c7c2c92753930e
+run_name: burly-lark-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015762501
+status: 3
+tags: []
+user_id: shopclues

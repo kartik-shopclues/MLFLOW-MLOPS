@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/419985369846437741/1a7c9f3653c742719c476405d00e3b3d/artifacts
+end_time: 1753116153817
+entry_point_name: ''
+experiment_id: '419985369846437741'
+lifecycle_stage: active
+run_id: 1a7c9f3653c742719c476405d00e3b3d
+run_name: abundant-eel-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753116138073
+status: 3
+tags: []
+user_id: shopclues

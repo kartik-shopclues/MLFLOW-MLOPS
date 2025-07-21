@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/419985369846437741/148d1e7882f847359915d08643c02536/artifacts
+end_time: 1753114998106
+entry_point_name: ''
+experiment_id: '419985369846437741'
+lifecycle_stage: active
+run_id: 148d1e7882f847359915d08643c02536
+run_name: blushing-stag-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114989734
+status: 3
+tags: []
+user_id: shopclues
