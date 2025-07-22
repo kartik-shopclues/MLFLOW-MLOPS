@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/e2f9c83ca54841b4a65478d2525cc3ef/artifacts
+end_time: 1753119513512
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: e2f9c83ca54841b4a65478d2525cc3ef
+run_name: kindly-koi-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513489
+status: 3
+tags: []
+user_id: shopclues

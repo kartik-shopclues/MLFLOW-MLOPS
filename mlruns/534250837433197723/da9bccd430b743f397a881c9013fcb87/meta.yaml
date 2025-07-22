@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/da9bccd430b743f397a881c9013fcb87/artifacts
+end_time: 1753119513437
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: da9bccd430b743f397a881c9013fcb87
+run_name: receptive-crow-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513416
+status: 3
+tags: []
+user_id: shopclues

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/6b11a86030ff43b69cf017467b9d79e4/artifacts
+end_time: 1753119513561
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: 6b11a86030ff43b69cf017467b9d79e4
+run_name: luxuriant-turtle-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513540
+status: 3
+tags: []
+user_id: shopclues

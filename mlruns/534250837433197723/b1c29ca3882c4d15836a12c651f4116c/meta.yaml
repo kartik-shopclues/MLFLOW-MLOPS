@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/b1c29ca3882c4d15836a12c651f4116c/artifacts
+end_time: 1753119521486
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: b1c29ca3882c4d15836a12c651f4116c
+run_name: bald-quail-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119505539
+status: 3
+tags: []
+user_id: shopclues

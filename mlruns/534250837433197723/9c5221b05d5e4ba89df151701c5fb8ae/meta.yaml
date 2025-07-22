@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/9c5221b05d5e4ba89df151701c5fb8ae/artifacts
+end_time: 1753119513318
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: 9c5221b05d5e4ba89df151701c5fb8ae
+run_name: adventurous-croc-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513296
+status: 3
+tags: []
+user_id: shopclues

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/a50a6436703c49d8891ea15aba47f13e/artifacts
+end_time: 1753119513462
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: a50a6436703c49d8891ea15aba47f13e
+run_name: secretive-worm-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513440
+status: 3
+tags: []
+user_id: shopclues

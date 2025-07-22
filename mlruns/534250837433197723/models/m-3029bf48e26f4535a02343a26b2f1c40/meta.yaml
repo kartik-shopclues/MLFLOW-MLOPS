@@ -1,0 +1,10 @@
+artifact_location: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/models/m-3029bf48e26f4535a02343a26b2f1c40/artifacts
+creation_timestamp: 1753119513687
+experiment_id: '534250837433197723'
+last_updated_timestamp: 1753119521481
+model_id: m-3029bf48e26f4535a02343a26b2f1c40
+model_type: null
+name: random_forest
+source_run_id: b1c29ca3882c4d15836a12c651f4116c
+status: 2
+status_message: null

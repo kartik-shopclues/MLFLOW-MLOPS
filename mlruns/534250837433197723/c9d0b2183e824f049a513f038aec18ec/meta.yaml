@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/c9d0b2183e824f049a513f038aec18ec/artifacts
+end_time: 1753119513412
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: c9d0b2183e824f049a513f038aec18ec
+run_name: gifted-boar-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513391
+status: 3
+tags: []
+user_id: shopclues

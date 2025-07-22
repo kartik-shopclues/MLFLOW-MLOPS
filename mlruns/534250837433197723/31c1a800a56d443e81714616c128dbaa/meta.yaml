@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/31c1a800a56d443e81714616c128dbaa/artifacts
+end_time: 1753119513537
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: 31c1a800a56d443e81714616c128dbaa
+run_name: calm-loon-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513515
+status: 3
+tags: []
+user_id: shopclues

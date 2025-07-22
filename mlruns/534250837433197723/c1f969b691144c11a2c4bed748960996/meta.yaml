@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shopclues/MLFLOW-MLOPS/mlruns/534250837433197723/c1f969b691144c11a2c4bed748960996/artifacts
+end_time: 1753119513340
+entry_point_name: ''
+experiment_id: '534250837433197723'
+lifecycle_stage: active
+run_id: c1f969b691144c11a2c4bed748960996
+run_name: enthused-tern-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119513321
+status: 3
+tags: []
+user_id: shopclues
